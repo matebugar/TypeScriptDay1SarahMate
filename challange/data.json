@@ -1,61 +1,26 @@
-var dishes =[{
+var dishes = [{
 "image":"pizza.jpg",
 "name":"Pizza Margherita",
 "description":"Pizza Margherita is a typical Neapolitan pizza, made with San Marzano tomatoes, mozzarella cheese, fresh basil, salt and extra-virgin olive oil. Traditionally, it is made with fior di latte rather than buffalo mozzarella. ",
-"rating":"8/10"
+"rating": 8
 },{
-"image":"",
-"title":"",
-"description":"",
-"rating":
+"image":"bruschetta.jpg",
+"name":"Bruschetta",
+"description":"Bruschetta is an antipasto from Italy consisting of grilled bread rubbed with garlic and topped with olive oil and salt. Variations may include toppings of tomato, vegetables, beans, cured meat, or cheese.",
+"rating": 6
 },{
-"image":"",
-"title":"",
-"description":"",
-"rating":
+"image":"carbonara.jpeg",
+"name":"Carbonara",
+"description":"Carbonara is an Italian pasta dish from Rome made with egg, hard cheese, guanciale, and black pepper. The dish arrived at its modern form, with its current name, in the middle of the 20th century. The cheese is usually Pecorino Romano, Parmigiano-Reggiano, or a combination of the two.",
+"rating": 7
 },{
-"image":"",
-"title":"",
-"description":"",
-"rating":
+"image":"tiramisu.jpg",
+"name":"Tiramisu",
+"description":"Tiramisu is a coffee-flavoured Italian dessert. It is made of ladyfingers dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, flavoured with cocoa. The recipe has been adapted into many varieties of cakes and other desserts.",
+"rating": 9
 },{
-"image":"",
-"title":"",
-"description":"",
-"rating":
-},{
-"image":"",
-"title":"",
-"description":"",
-"rating":
-},{
-"image":"",
-"title":"",
-"description":"",
-"rating":
-},{
-"image":"",
-"title":"",
-"description":"",
-"rating":
-},{
-"image":"",
-"title":"",
-"description":"",
-"rating":
-},{
-"image":"",
-"title":"",
-"description":"",
-"rating":
-},{
-"image":"",
-"title":"",
-"description":"",
-"rating":
-},{
-"image":"",
-"title":"",
-"description":"",
-"rating":
+"image":"risotto.jpeg",
+"name":"Risotto",
+"description":"A heavenly rich dish of rice and the finest mushrooms, mixed with mature parmigiano.",
+"rating": 10
 }];
