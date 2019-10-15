@@ -23,4 +23,19 @@ var dishes = [{
 "name":"Risotto",
 "description":"A heavenly rich dish of rice and the finest mushrooms, mixed with mature parmigiano.",
 "rating": 10
+},{
+"image":"pomodoro.jpg",
+"name":"Pasta Con Pomodoro",
+"description":"Pasta al pomodoro is an Italian food typically prepared with pasta, olive oil, fresh tomatoes, basil, and various other fresh ingredients. It is intended to be a quick light dish, rather than a dish in a heavy sauce. Pomodoro means tomato in Italian.",
+"rating": 8
+},{
+"image":"lasagna.jpg",
+"name":"Lasagna",
+"description":"Lasagne are a type of wide, flat pasta, possibly one of the oldest types of pasta. Lasagne, or the singular lasagna, commonly refers to a culinary dish made with stacked layers of pasta alternated with sauces and ingredients such as meats, vegetables and cheese, and sometimes topped with melted grated cheese.",
+"rating": 7
+},{
+"image":"spaghetti.jpg",
+"name":"Spaghetti Bolognese",
+"description":"Bolognese sauce is a meat-based sauce in Italian cuisine, typical of the city of Bologna. It is customarily used to dress tagliatelle al ragù and to prepare lasagne alla bolognese. In the absence of tagliatelle, it can also be used with other broad, flat pasta shapes, such as pappardelle or fettuccine.",
+"rating": 9
 }];
